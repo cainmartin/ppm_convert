@@ -31,3 +31,15 @@ Other commands
 ```
 ppm_convert --help
 ```
+
+# Other information
+
+This was a quick project to solve a problem I had when working on my raytracer. Because that 
+project worked on .ppm files, and not all platforms provided good tools for viewing .ppm files.
+So this tool is there to solve a specific problem - however, if you have ascii PPM files that you
+need to convert, then this might just be a solution.
+
+## To Do
+
+I want to add in the future support for the P6 binary version of the file, it also requires some
+additional testing and code tidy up. 
