@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 # ppm_convert
 
 Command line converter that converts ppm ascii image files (i.e. P3 type) to either .png or .jpg/.jpeg.

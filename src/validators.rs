@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// Copyright (c) 2025 Cain Martin
+
 use std::path::Path;
 use std::fs::File;
 use std::io::{ BufReader, BufRead };

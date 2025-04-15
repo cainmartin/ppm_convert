@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// Copyright (c) 2025 Cain Martin
+
 use image::{Rgb, RgbImage, ImageError};
 use std::fs::File;
 use std::io::{BufReader};

@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// Copyright (c) 2025 Cain Martin
+
 mod arguments;
 mod validators;
 mod ppm_loader;

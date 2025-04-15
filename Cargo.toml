@@ -2,6 +2,7 @@
 name = "ppm_convert"
 version = "0.1.0"
 edition = "2021"
+license-file = "MIT-LICENSE.txt"
 
 [dependencies]
 clap = { version = "4.5.16", features = ["derive"] }
